@@ -41,7 +41,6 @@ task_manager/
 │   │   │   └── TaskList.js
 │   │   ├── App.js
 │   │   ├── index.js
-│   │   └── styles.css
 │   └── package.json
 └── README.md
 ```
